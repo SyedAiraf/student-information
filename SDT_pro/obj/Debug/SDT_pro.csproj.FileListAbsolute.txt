@@ -1,0 +1,10 @@
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\bin\Debug\SDT_pro.exe.config
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\bin\Debug\SDT_pro.exe
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\bin\Debug\SDT_pro.pdb
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\obj\Debug\SDT_pro.csprojResolveAssemblyReference.cache
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\obj\Debug\SDT_pro.Form1.resources
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\obj\Debug\SDT_pro.Properties.Resources.resources
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\obj\Debug\SDT_pro.csproj.GenerateResource.Cache
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\obj\Debug\SDT_pro.exe
+c:\users\pmls\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\obj\Debug\SDT_pro.pdb
+c:\Users\PMLS\documents\visual studio 2012\Projects\SDT_pro\SDT_pro\obj\Debug\SDT_pro.login.resources
